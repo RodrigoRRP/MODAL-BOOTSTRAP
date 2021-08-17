@@ -1,0 +1,31 @@
+table tr th{
+    background:rgba(0, 0, 0, .6);
+    color: azure;
+}
+tbody tr{
+  font-size: 12px !important;
+
+}
+h3{
+    color:crimson; 
+    margin-top: 100px;
+}
+
+.color-navbar{
+    background: rgb(32, 74, 151);
+    
+}
+.nav-titulo{
+    color: honeydew;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo-secundario{
+background: rgb(199, 188, 188);
+color: #000;
+text-align: center;
+}
+
+
+
